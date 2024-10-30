@@ -11,5 +11,10 @@
         "0$"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds004650.v1.0.2",
-    "ReferencesAndLinks": []
+    "ReferencesAndLinks": [
+        "ZIA-MH002852 (RBI)/NIH/Intramural NIH HHS/United States",
+        "ZIA-MH002793 (RBI)/ImNIH/Intramural NIH HHS/United States",
+        "NCT03912428 (RBI)/ImNIH/Intramural NIH HHS/United States",
+        "NCT04396873 (RBI)/ImNIH/Intramural NIH HHS/United States"
+    ]
 }
