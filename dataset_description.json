@@ -12,7 +12,9 @@
         "ZIAMH002852",
         "ZIAMH002793"
     ],
-    "EthicsApprovals": [],
+    "EthicsApprovals": [
+        "Animal studies adhered strictly to the National Institute of Mental Health Animal Care and Use Committee guidelines and conformed to the Institute of Medicine’s recommendations for laboratory animal care standards. "
+    ],
     "ReferencesAndLinks": [],
     "DatasetDOI": "",
     "SourceDatasets": [],
