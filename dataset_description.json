@@ -8,7 +8,10 @@
     ],
     "Acknowledgements": "We thank the Human Brain Collection Core (NIMH) for providing human brain tissue samples and Ioline Henter (NIMH) for invaluable editorial assistance.",
     "HowToAcknowledge": "",
-    "Funding": [],
+    "Funding": [
+        "ZIAMH002852",
+        "ZIAMH002793"
+    ],
     "EthicsApprovals": [],
     "ReferencesAndLinks": [],
     "DatasetDOI": "",
