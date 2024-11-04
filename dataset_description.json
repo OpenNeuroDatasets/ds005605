@@ -2,7 +2,9 @@
     "BIDSVersion": "1.6.0",
     "License": "CC0",
     "Name": "Positron emission tomography (PET) quantification in rats of cyclooxygenase-2 (COX-2), a potential biomarker of neuroinflammation",
-    "Authors": [],
+    "Authors": [
+        "Xuefeng Yan, Martin Noergaard, Cheryl L. Morse, Jeih-San Liow, Jinsoo Hong,  Douglas Greve, Sanjay Telu, Min-Jeong Kim, Jose A. Montero Santamaria, Anthony Galassi, Ningping Feng, Sarah K. Williams Avram, Ted B. Usdin, Shawn Wu, Andrea Zhang, Lester S. Manly, Madeline Jenkins, Maia Van Buskirk, Adrian Lee, Sami S. Zoghbi, Victor W. Pike, Paolo Zanotti-Fregonara, and Robert B. Innis"
+    ],
     "Acknowledgements": "NA",
     "HowToAcknowledge": "Martin Norgaard",
     "Funding": [
